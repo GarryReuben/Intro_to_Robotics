@@ -2,4 +2,4 @@
 
 MATLAB code for Introduction to Robotics at Mechanical Engineering, Imperial College London
 
-Run MAIN (RRP).m
+Run main (RRP).m
